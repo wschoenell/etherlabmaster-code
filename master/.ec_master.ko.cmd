@@ -1,0 +1,1 @@
+cmd_/home/biorob/etherlabmaster-code/master/ec_master.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/biorob/etherlabmaster-code/master/ec_master.ko /home/biorob/etherlabmaster-code/master/ec_master.o /home/biorob/etherlabmaster-code/master/ec_master.mod.o

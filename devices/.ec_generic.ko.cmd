@@ -1,0 +1,1 @@
+cmd_/home/biorob/etherlabmaster-code/devices/ec_generic.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/biorob/etherlabmaster-code/devices/ec_generic.ko /home/biorob/etherlabmaster-code/devices/ec_generic.o /home/biorob/etherlabmaster-code/devices/ec_generic.mod.o
